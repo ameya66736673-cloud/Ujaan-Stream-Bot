@@ -1,0 +1,10 @@
+name = "ujaan"
+main = "index.js"
+compatibility_date = "2026-11-26"
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "MEMORY"
+id = "4ad4f9d5a44e419bbac978bdcd169bd9"
